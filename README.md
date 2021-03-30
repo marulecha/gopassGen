@@ -5,9 +5,7 @@ mainly for self development purpose.
 Usage: 
 
 $ ./passGen -d 12 -s -u
-
   -d int
-  
         Number of password digits. (default 8)
         
   -s    Include symbols.
