@@ -13,8 +13,8 @@ __Example output:__
 
 $ ./passGen -d 20 -u -s  
 
-Digits: 20 
-Symbols: true 
+Digits: 20 \
+Symbols: true \
 Upper case: true  
 
 Password: !N}o65f|r06Ep'@/w$LB
