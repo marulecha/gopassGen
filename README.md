@@ -2,7 +2,7 @@
 
 mainly for self development purpose.
 
-Usage: 
+<p>Usage: 
 
 $ ./passGen -d 12 -s -u
   -d int
@@ -10,10 +10,9 @@ $ ./passGen -d 12 -s -u
         
   -s    Include symbols.
   
-  -u    Include upper case digits.
+  -u    Include upper case digits.</p>
 
-
-Example output:
+<p>Example output:
 
 $ ./passGen -d 20 -u -s
 
@@ -25,4 +24,4 @@ Upper case: true
 
 
 Password: !N}o65f|r06Ep'@/w$LB
-
+</p>
