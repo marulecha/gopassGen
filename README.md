@@ -11,11 +11,11 @@ __Usage:__
 
 __Example output:__
 
-* $ ./passGen -d 20 -u -s
+$ ./passGen -d 20 -u -s
 
-* Digits: 20
-* Symbols: true
-* Upper case: true
+>Digits: 20
+>Symbols: true
+>Upper case: true
 
-* Password: !N}o65f|r06Ep'@/w$LB
+Password: !N}o65f|r06Ep'@/w$LB
 
