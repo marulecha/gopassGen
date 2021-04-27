@@ -1,6 +1,6 @@
 # passGenerator written in golang
 
-*mainly for self development purpose.*
+*mainly for self development.*
 
 __Usage:__ 
   * -d int
